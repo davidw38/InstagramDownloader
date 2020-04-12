@@ -1,0 +1,20 @@
+{
+  "name": "InstagramDownloader",
+  "version": "1.0.0",
+  "description": "Download Instagram-Posts",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "InstagramDownload",
+    "PostDownloader"
+  ],
+  "author": "David Wild",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-web-api": "2.1.0",
+    "colors": "1.4.0"
+  }
+}
