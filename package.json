@@ -1,10 +1,10 @@
 {
-  "name": "test",
+  "name": "instagram-profile-downloader",
   "version": "2.0.0",
   "description": "test",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js debug",
+    "test": "node main.js",
     "start": "node main.js"
   },
   "keywords": [
