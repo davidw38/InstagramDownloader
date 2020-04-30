@@ -1,4 +1,4 @@
-﻿# Download Instagram Profile
+# Download Instagram Profile
 
 ## Introduction
 This Node.js script can fetch the imageURLs for a specific amount of Instagram posts of a profile (including slideshow-like posts). You also have the ability to download them directly.

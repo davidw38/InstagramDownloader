@@ -1,18 +1,18 @@
 {
-  "name": "InstagramDownloader",
-  "version": "1.0.0",
-  "description": "Download Instagram-Posts",
+  "name": "test",
+  "version": "2.0.0",
+  "description": "test",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js",
+    "test": "node main.js debug",
     "start": "node main.js"
   },
   "keywords": [
-    "InstagramDownload",
-    "PostDownloader"
+    "bot"
   ],
-  "author": "David Wild",
-  "license": "ISC",
+  "author": "david",
+  "license": "MIT",
+  "homepage": "https://github.com/davidw38/InstagramDownloader",
   "dependencies": {
     "instagram-web-api": "2.1.0",
     "colors": "1.4.0"
